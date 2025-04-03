@@ -11,5 +11,3 @@ Features
 - Python 3
 - Random Module
 
-🤝 Contributing
-Want to improve this game? Fork the repository, make changes, and submit a pull request! 🚀
